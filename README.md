@@ -1,1 +1,1 @@
-# iosevka-fixed-ss13
+<built-in method capitalize of str object at 0x7fce4dc43b40> - version 17.1.0
